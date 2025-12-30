@@ -1,1 +1,19 @@
+# Sales Performance Analysis
+
+## Objective
+Analyze sales data to identify trends, top-performing products, and key revenue drivers.
+
+## Business Questions
+- Which products generate the highest revenue?
+- How do sales trends change over time?
+- Which regions or segments perform best?
+
+## Tools Used
+- Python
+- Pandas
+- SQL
+- Power BI / Tableau
+
+## Outcome
+This project demonstrates how data analysis can support business decision-making through clear insights and reporting.
 
